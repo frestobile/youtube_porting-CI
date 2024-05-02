@@ -32,4 +32,4 @@ user_guide_src/cilexer/pycilexer.egg-info/*
 assets/video/*
 *.logs
 *.mp4
-
+/uploads/*
